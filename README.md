@@ -7,3 +7,4 @@
 * [ئالدى كود](https://github.com/xxai-art/web)
 * [تور بېكەت ئۈچۈن تىل بولىقى](https://github.com/xxai-art/web/tree/main/i18n)
 * [كىرىش مودۇلى ئۈچۈن تىل بولىقى](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [تور بېكەت كۆپ تىللىق ھۆججەتلەر](https://github.com/xxai-doc)
